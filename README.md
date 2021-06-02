@@ -8,5 +8,5 @@ or
    git pull https://github.com/L1ncd4w9/C2-Server/new/main?readme=1
 
 ## How to Run
-in one terminal inside the C2 directory run:
+in one terminal inside the C2 directory run: \n
     npm start_server
