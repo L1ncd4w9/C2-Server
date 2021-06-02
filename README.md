@@ -2,6 +2,7 @@
 C2 (Command and control server) is a github and npm repo that has client and server C2 examples and P.O.C
 
 ## How to install:
+run:
 
     npm install C2
    
