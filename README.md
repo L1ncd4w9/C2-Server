@@ -4,10 +4,6 @@ C2 (Command and control server) is a github and npm repo that has client and ser
 ## How to install:
 run:
 
-    npm install C2
-   
-or
-
     git pull https://github.com/L1ncd4w9/C2-Server/
 
 ## How to Run
